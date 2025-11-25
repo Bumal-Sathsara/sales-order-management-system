@@ -194,10 +194,3 @@ Order totals are sum of all line items.
 - id (PK), order_id (FK), item_id (FK), quantity, price, tax_rate, note
 - excl_amount, tax_amount, incl_amount
 
-## Author
-
-Developed for SPIL Labs Internship Assignment
-
-## License
-
-MIT
