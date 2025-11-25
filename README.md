@@ -2,6 +2,17 @@
 
 A full-stack web application for managing sales orders, customers, and items with automatic tax calculations.
 
+## Screenshots
+
+### Home Page - Orders List
+![Home Page](screenshots/ss1.png)
+
+### Sales Order Form
+![Sales Order Form](screenshots/ss2.png)
+
+### Order Details
+![Order Details](screenshots/ss3.png)
+
 ## Tech Stack
 
 **Frontend:**
