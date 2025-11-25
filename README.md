@@ -91,8 +91,6 @@ CREATE USER salesapp FOR LOGIN salesapp;
 ALTER ROLE db_owner ADD MEMBER salesapp;
 ```
 
-4. Tables will be created automatically on first run
-
 ## Installation
 
 ### Backend Setup
